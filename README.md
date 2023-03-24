@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Olá, meu nome é Arianne! 😁 Bem-vindo(a) ao meu perfil! 👋🏻
 
  <div>
    <a href="https://github.com/ArianneBSS">
